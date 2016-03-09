@@ -41,6 +41,7 @@ Second tries
 ![](https://github.com/lpaubielsa/FadeAway/blob/master/img./secondtiresthree.png?raw=true)
 
 Final algortihm
+
 ![](https://github.com/lpaubielsa/FadeAway/blob/master/img./fadeaway1.png?raw=true)
 ![](https://github.com/lpaubielsa/FadeAway/blob/master/img./fadeaway2.png?raw=true)
 ![](https://github.com/lpaubielsa/FadeAway/blob/master/img./fadeaway3.png?raw=true)
