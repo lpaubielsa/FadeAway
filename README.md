@@ -1,5 +1,4 @@
 ### Welcome to Fade Away algorithm
-
 This Project was realized with P5js during the Input/Output course  at the University of Applied Sciences Potsdam.
 
 ###Analog algorithm
@@ -28,10 +27,20 @@ The digital algorithm is based on the previous picture. It is interesting how th
 
 First tests
 
-![](https://github.com/lpaubielsa/FadeAway/blob/master/img./fourexamples.jpg?raw=true)
+![](https://github.com/lpaubielsa/FadeAway/blob/master/img./tblue.png?raw=true)
+![](https://github.com/lpaubielsa/FadeAway/blob/master/img./tgreen.png?raw=true)
+![](https://github.com/lpaubielsa/FadeAway/blob/master/img./tone.png?raw=true)
+![](https://github.com/lpaubielsa/FadeAway/blob/master/img./tpoint.png?raw=true)
+![](https://github.com/lpaubielsa/FadeAway/blob/master/img./tthree.png?raw=true)
+![](https://github.com/lpaubielsa/FadeAway/blob/master/img./ttwo.png?raw=true)
+
+Second tries
+
+![](https://github.com/lpaubielsa/FadeAway/blob/master/img./secondtriesone.png?raw=true)
+![](https://github.com/lpaubielsa/FadeAway/blob/master/img./secondtriestwo.png?raw=true)
+![](https://github.com/lpaubielsa/FadeAway/blob/master/img./secondtiresthree.png?raw=true)
 
 Final algortihm
-
 ![](https://github.com/lpaubielsa/FadeAway/blob/master/img./fadeaway1.png?raw=true)
 ![](https://github.com/lpaubielsa/FadeAway/blob/master/img./fadeaway2.png?raw=true)
 ![](https://github.com/lpaubielsa/FadeAway/blob/master/img./fadeaway3.png?raw=true)
